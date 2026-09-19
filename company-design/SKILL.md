@@ -1,3 +1,8 @@
+---
+name: company-design
+description: Defines the company brand design system — color tokens, typography, spacing, motion, and core UI components (buttons, cards, pills, nav) — for a confident, plain-spoken, crimson-accented brand. Use this skill whenever building or reviewing UI for this company's products or marketing pages, so colors, type, spacing, and component patterns (e.g. the offset-shadow card motif) match the established brand rather than being invented per page. Pairs with `vanilla-js-frontend` for implementation.
+---
+
 ## 1. Brand Personality
 
 Confident, plain-spoken, and warm — a local AI consultancy, not a faceless SaaS.
